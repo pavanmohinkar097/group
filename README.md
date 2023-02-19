@@ -48,6 +48,7 @@ Overall, the motto of organic farms reflects the values and principles of sustai
 5.Team-team/details
 6.Blog-blogs/details
 7.Gallery-photos/products details
+8. Navbar & Footer
                                  
                                  Work Done with Team Members
 
