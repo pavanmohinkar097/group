@@ -1,4 +1,8 @@
-                         Organico E-commerce Development
+# Organic-food1
+
+# Organic-food Website Development:-
+
+                                                  * Organico E-commerce Development *
 
 The purpose of an organic e-commerce website is to sell products that are produced using organic farming practices. Organic farming avoids the use of synthetic pesticides, fertilizers, and genetically modified organisms (GMOs) to grow crops, and it also promotes sustainable farming practices.
 
@@ -18,7 +22,7 @@ Promote the growth of the organic food industry and contribute to the sustainabi
 
 Overall, the purpose of an organic e-commerce website is to provide a convenient and accessible way for consumers to purchase organic products, support sustainable farming practices, and make healthier choices for themselves and the environment.
 
-                      Purpose of Organico Website Design Related to farming lands
+                          * Purpose of Organico Website Design Related to farming lands *
 
  The motto of organic farms is often to promote sustainable agriculture, protect the environment, and produce healthy and nutritious food. Organic farms prioritize the use of natural farming methods that rely on ecological processes, such as crop rotation, composting, and biological pest control, to promote healthy soil and plant growth without the use of synthetic chemicals.
 
@@ -38,9 +42,7 @@ Overall, the motto of organic farms reflects the values and principles of sustai
 
 
 
-
-
-                                Organico Website Sections
+                               * Organico Website Sections *
 1.Home
 2.About
 3.Shop-shop/details/cart/checkout
@@ -50,7 +52,7 @@ Overall, the motto of organic farms reflects the values and principles of sustai
 7.Gallery-photos/products details
 8. Navbar & Footer
                                  
-                                 Work Done with Team Members
+                               * Work Done with Team Members *
 
 
 1. Home & Service Section Done By- Pavan Mohinkar          Newton id - @pavanmohi097
@@ -62,7 +64,7 @@ Overall, the motto of organic farms reflects the values and principles of sustai
 4. Blog & Team Section Done By - Kabeer Biswas             Newton id - @kabeer.biswas567
 
                                     
-                                   Team Members GitHub Link
+                                  * Team Members GitHub Link *
 
 
                                    1. Pavan Mohinkar -  https://github.com/pavanmohinkar097
@@ -72,6 +74,3 @@ Overall, the motto of organic farms reflects the values and principles of sustai
                                    3. Anchla Rajpoot -  https://github.com/Anchla2705
 
                                    4. Kabeer Biswas  -  https://github.com/kabeer786coder
-
-
-                            
